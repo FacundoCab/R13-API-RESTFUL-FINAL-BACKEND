@@ -72,7 +72,7 @@ Las consultas de productos utilizan `populate()` para obtener los datos de su ca
 ### 1. Clonar el repositorio
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/FacundoCab/R13-API-RESTFUL-FINAL-BACKEND.git
 ```
 
 ### 2. Instalar dependencias
